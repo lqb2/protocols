@@ -12,14 +12,14 @@ about: 'about.html'
                     <img src="{{ page.logo }}" alt="Blog Logo" />
                 </a>
             {% endif %}
-        <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a>
+        <!-- <a class="subscribe-button icon-feed" href="{{ site.baseurl }}feed.xml">Subscribe</a> -->
     </nav>
     <div class="vertical">
         <div class="main-header-content inner">
             <h1 class="page-title">{{ site.name }}</h1>
             <h2 class="page-description">
                 {% if site.description %} {{ site.description }}. {% endif %}
-                {% if page.about %} <a href='{{ site.baseurl }}{{ page.about }}'> About me </a> {% endif %}
+                <!-- {% if page.about %} <a href='http://www.lawrencebarrinerii.com/about' target="_blank"> about </a> {% endif %} -->
             </h2>
         </div>
     </div>
@@ -38,10 +38,12 @@ about: 'about.html'
 
     <article class="post">
         <header class="post-header">
-            <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            <!-- <h2 class="post-title"><a href="{{ post.url }}">{{ post.title }}</a></h2> -->
+            <h1 class="post-title">{{ post.title }}</h1>
         </header>
         <section class="post-excerpt">
-            {{ post.excerpt }} <a class="read-more" href="{{ post.url }}">&raquo;</a>
+        <!-- switched the below line from post.excerpt to post.content  -->
+            {{ post.content }} <!-- <a class="read-more" href="{{ post.url }}">&raquo;</a>  -->
         </section>
         <footer class="post-meta">
             {% if site.author %}
