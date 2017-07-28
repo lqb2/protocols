@@ -9,7 +9,7 @@ paginate: 15
 baseurl: /protocols/
 domain_name: 'http://lqb2.github.io/protocols'
 google_analytics: 'UA-XXXXXXXX-X'
-gems: [jekyll-paginate]
+plugins: [jekyll-paginate]
 
 # Details for the RSS feed generator
 url:            'http://lqb2.github.io'
