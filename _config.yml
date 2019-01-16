@@ -1,11 +1,11 @@
-name: lqb2's communication protocols
-description: how i communicate
+name: how i communicate
+description: "When you change the way you look at things, the things you look at change. — Max Planck"
 meta_description: "this is where i explain how to communicate with me best"
 
 markdown: kramdown
 highlighter: pygments
 logo: false
-paginate: 15
+paginate: 1
 baseurl: /protocols/
 domain_name: 'http://lqb2.github.io/protocols'
 google_analytics: 'UA-XXXXXXXX-X'
