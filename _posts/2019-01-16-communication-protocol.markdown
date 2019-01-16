@@ -12,8 +12,8 @@ categories:
 * my tools and practices are here to support me and people in my communities, particularly in the process of turning our thoughts and dreams into reality. 
 * there are a ton of implications of this stance.
 
-
 ---
+
 ### protocol (aka the [tl;dr](https://www.urbandictionary.com/define.php?term=tl%3Bdr))
 
 * my (fluid) communication protocol hierarchy: 
