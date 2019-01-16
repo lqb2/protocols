@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Protocol"
+title:  "stance"
 date:   2019-01-16 09:46:00
 categories: 
 ---
@@ -14,14 +14,15 @@ categories:
 
 
 ---
-### the [tl;dr](https://www.urbandictionary.com/define.php?term=tl%3Bdr)
+### the protocal (aka the [tl;dr](https://www.urbandictionary.com/define.php?term=tl%3Bdr))
 
-* my (fluid) communication protocol hierarchy: face2face > video  call > phone call > voice message via imessage > hand-written letters > SMS or internet text messages > email
+* my (fluid) communication protocol hierarchy: 
+    * face2face > video  call > phone call > voice message via imessage > hand-written letters > SMS or internet text messages > email
 * i have almost all my notifications off on all my devices. i check in on them when it makes sense for me. 
 * i try not to read new emails before 12p. the exception is if i'm working with people on something that is urgent. this allows me to maintain a pro-active mindset for my most productive hours, rather than a reactive one. 
 * i may send emails before 12p. (this doesn’t contradict the above bullet).
 * i try get to inbox zero on friday afternoons. 
-* i tech sabbath at least 2x/month. 
+* i tech sabbath (usually sundown friday to sundown saturday) at least 2x/month. 
 
 ---
 
