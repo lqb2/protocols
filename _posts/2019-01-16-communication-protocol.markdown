@@ -14,7 +14,7 @@ categories:
 
 
 ---
-### the protocal (aka the [tl;dr](https://www.urbandictionary.com/define.php?term=tl%3Bdr))
+### protocol (aka the [tl;dr](https://www.urbandictionary.com/define.php?term=tl%3Bdr))
 
 * my (fluid) communication protocol hierarchy: 
     * face2face > video  call > phone call > voice message via imessage > hand-written letters > SMS or internet text messages > email
