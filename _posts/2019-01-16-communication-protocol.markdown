@@ -8,7 +8,7 @@ categories:
 
 * i love people and i prioritize face to face interaction over all else. 
 * i control my devices; they do not control me. 
-* all the tools and technologies i use are in service of my vision (which includes me, my communities, and the planet)
+* all the tools and technologies i use are in service of [my vision](http://www.lawrencebarrinerii.com/vision) (which includes me, my communities, and the planet)
 * my tools and practices are here to support me and people in my communities, particularly in the process of turning our thoughts and dreams into reality. 
 * there are a ton of implications of this stance.
 
