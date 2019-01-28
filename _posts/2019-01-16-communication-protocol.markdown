@@ -24,6 +24,13 @@ categories:
 * i try get to inbox zero on friday afternoons. 
 * i tech sabbath (usually sundown friday to sundown saturday) at least 2x/month. 
 
+### guiding principles
+
+* “People tend to overestimate what can be done in one year and to underestimate what can be done in five or ten years.” — [J. C. R. Licklider, Book: “Libraries of the Future” (1965)](https://quoteinvestigator.com/2019/01/03/estimate/)
+* “Remember that if you don’t prioritize your life someone else will.” 
+― Greg Mckeown, Essentialism: The Disciplined Pursuit of Less
+* “A ‘no’ uttered from the deepest conviction is better than a ‘yes’ merely uttered to please, or worse, to avoid trouble.” — Mahatma Gandhi
+
 ---
 
 ### the details...  
